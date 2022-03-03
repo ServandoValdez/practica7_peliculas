@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Peliculas</string>
+    <string name="peli1">Toy Story</string>
+    <string name="peli2">Men in Black</string>
+    <string name="peli3">1917</string>
+    <string name="peli4">Leap Year</string>
+    <string name="peli5">Inception</string>
+
+    <string name="peliuwu_desc">sinopsis</string>
+
+    <string name="peli1_desc">Los juguetes de Andy, un niño de seis años, temen que un nuevo regalo les sustituya en el corazón de su dueño. Woody, un vaquero que ha sido hasta ahora el juguete favorito, trata de tranquilizarlos hasta que aparece Buzz Lightyear.</string>
+    <string name="peli2_desc">Durante muchos años los extraterrestres han vivido en la Tierra, mezclados con los seres humanos, sin que nadie lo supiese.</string>
+    <string name="peli3_desc">Durante la Primera Guerra Mundial, dos jóvenes soldados británicos reciben una orden, aparentemente, imposible de ejecutar: en una carrera contra el reloj, deben infiltrarse en territorio enemigo para entregar un mensaje que podría salvar a miles de compañeros.</string>
+    <string name="peli4_desc">Una joven viaja a Dublín para, aprovechando una costumbre irlandesa, pedirle a su novio que se case con ella, sabiendo que no puede decir que no en ese día tan especial, el 29 de febrero.</string>
+    <string name="peli5_desc">Dom Cobb (Leonardo DiCaprio) es un ladrón con una extraña habilidad para entrar a los sueños de la gente y robarle los secretos de sus subconscientes. </string>
+</resources>
